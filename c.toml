@@ -2,3 +2,13 @@
 disp = "CPI"
 desc = "Consumer Price Index"
 full = "居民消费价格指数"
+
+[cfa]
+disp = "CFA"
+desc = "Chartered Financial Analyst"
+full = "特许金融分析师"
+
+[cpa]
+disp = "CPA"
+desc = "Certified Practising Accountant"
+full = "注册会计师"
