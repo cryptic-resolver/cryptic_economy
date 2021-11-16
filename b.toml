@@ -1,0 +1,11 @@
+[bg]
+disp = "BG"
+desc = "Business Group"
+full = "业务集团"
+see = ["BU"]
+
+[bu]
+disp = "BU"
+desc = "Business Unit"
+full = "经营单元"
+see = ["BG"]
