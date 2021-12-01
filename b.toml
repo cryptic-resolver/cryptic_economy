@@ -9,3 +9,8 @@ disp = "BU"
 desc = "Business Unit"
 full = "经营单元"
 see = ["BG"]
+
+[bse]
+disp = "BSE"
+desc = "Beijing Stock Exchange"
+full = "北京证券交易所（北交所）"
