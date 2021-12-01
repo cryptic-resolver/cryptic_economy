@@ -2,3 +2,8 @@
 disp = "ICU"
 desc = "Intensive Care Unit"
 full = "重症监护室"
+
+[imf]
+disp = "IMF"
+desc = "International Monetary Fund"
+full = "国际货币基金组织"
