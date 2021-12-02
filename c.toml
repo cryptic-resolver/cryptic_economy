@@ -12,3 +12,7 @@ full = "特许金融分析师"
 disp = "CPA"
 desc = "Certified Practising Accountant"
 full = "注册会计师"
+
+[csi]
+disp = "CSI"
+desc = "China Securities Index"
