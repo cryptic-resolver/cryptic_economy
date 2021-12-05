@@ -1,0 +1,7 @@
+[wb]
+disp = "WB"
+desc = "World Bank"
+
+[wto]
+disp = "WTO"
+desc = "World Trade Organization"
