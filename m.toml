@@ -1,24 +1,19 @@
 [mpa]
 disp = "MPA"
 desc = "Master of Public Administration"
-full = "公共管理硕士"
 
 [mba]
 disp = "MBA"
 desc = "Master of Business Administration"
-full = "工商管理硕士"
 
 [mpm]
 disp = "MPM"
 desc = "Master of Project Management"
-full = "项目管理工程硕士"
 
 [mem]
 disp = "MEM"
 desc = "Master of Engineering Management"
-full = "工程管理硕士"
 
 [mvp]
 disp = "MVP"
 desc = "Minimum Viable Product"
-full = "最小可行性产品"
