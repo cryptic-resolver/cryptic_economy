@@ -5,3 +5,7 @@ desc = "New York Stock Exchange"
 [nasdaq]
 disp = "NASDAQ"
 desc = "National Association of Securities Dealers Automated Quotations"
+
+[nft]
+disp = "NFT"
+desc = "Non-fungible Tokens"
