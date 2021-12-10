@@ -17,3 +17,8 @@ full = "项目管理工程硕士"
 disp = "MEM"
 desc = "Master of Engineering Management"
 full = "工程管理硕士"
+
+[mvp]
+disp = "MVP"
+desc = "Minimum Viable Product"
+full = "最小可行性产品"
