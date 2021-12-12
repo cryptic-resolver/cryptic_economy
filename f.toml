@@ -1,3 +1,11 @@
 [fred]
 disp = "FRED"
 desc = "Federal Reserve Economic Data"
+
+[fof]
+disp = "FOF"
+desc = "fund of funds"
+
+[ftse]
+disp = "FTSE"
+desc = "Financial Times Stock Exchange"

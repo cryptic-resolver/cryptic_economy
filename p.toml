@@ -1,3 +1,13 @@
 [ppi]
 disp = "PPI"
 desc = "Producer Price Index"
+
+[pe]
+same = 'p/e'
+
+[per]
+same = 'p/e'
+
+['p/e']
+disp = "P/E"
+desc = "Price–earnings Ratio"

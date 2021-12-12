@@ -13,3 +13,11 @@ desc = "Certified Practising Accountant"
 [csi]
 disp = "CSI"
 desc = "China Securities Index"
+
+[cbot]
+disp = "CBOT"
+desc = "Chicago Board of Trade"
+
+[cme]
+disp = "CME"
+desc = "Chicago Mercantile Exchange"

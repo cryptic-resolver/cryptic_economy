@@ -1,3 +1,11 @@
 [lof]
 disp = "LOF"
 desc = "Listed Open-Ended Fund"
+
+[lse]
+disp = "LSE"
+desc = "London Stock Exchange"
+
+[lme]
+disp = "LME"
+desc = "London Metal Exchange"

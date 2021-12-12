@@ -1,3 +1,12 @@
 [dex]
 disp = "DEX"
 desc = "Decentralized Exchanges"
+
+[dax]
+disp = "DAX"
+desc = "Deutscher Aktienindex (German stock index)"
+see = ["FTSE","DJIA"]
+
+[djia]
+disp = "DJIA"
+desc = "Dow Jones Industrial Average"

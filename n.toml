@@ -9,3 +9,7 @@ desc = "National Association of Securities Dealers Automated Quotations"
 [nft]
 disp = "NFT"
 desc = "Non-fungible Tokens"
+
+[nymex]
+disp = "NYMEX"
+desc = "New York Mercantile Exchange"
