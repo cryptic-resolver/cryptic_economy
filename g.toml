@@ -1,0 +1,7 @@
+[gnp]
+disp = "GNP"
+desc = "Gross National Product"
+
+[gni]
+disp = "GNI"
+desc = "Gross National Income"
