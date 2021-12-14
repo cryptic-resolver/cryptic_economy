@@ -1,3 +1,7 @@
 [etf]
 disp = "ETF"
 desc = "Exchange-traded Fund"
+
+[eps]
+disp = "EPS"
+desc = "Earnings Per Share"

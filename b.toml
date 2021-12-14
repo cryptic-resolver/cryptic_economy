@@ -11,3 +11,7 @@ see = ["BG"]
 [bse]
 disp = "BSE"
 desc = "Beijing Stock Exchange"
+
+[bdi]
+disp = "BDI"
+desc = "Baltic Dry Index"

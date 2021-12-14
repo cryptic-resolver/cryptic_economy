@@ -1,0 +1,11 @@
+[roe]
+disp = "ROE"
+desc = "Return on Equity"
+
+[roi]
+disp = "ROI"
+desc = "Return on Investment"
+
+[rpi]
+disp = "RPI"
+desc = "Retail Price Index"

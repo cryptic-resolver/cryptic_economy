@@ -9,3 +9,8 @@ desc = "Shenzhen Stock Exchange"
 [sec]
 disp = "SEC"
 desc = "U.S. Securities and Exchange Commission"
+
+[st]
+disp = "ST"
+desc = "Special treatment"
+
