@@ -21,3 +21,23 @@ desc = "Chicago Board of Trade"
 [cme]
 disp = "CME"
 desc = "Chicago Mercantile Exchange"
+
+[cmo.officer]
+disp = "CMO"
+desc = "Chief Marketing Officer"
+
+[cmo.pharmaceutical]
+disp = "CMO"
+desc = "Contract Manufacturing Organization"
+
+[cdmo.pharmaceutical]
+disp = "CDMO"
+desc = "Contract Development and Manufacturing Organization"
+
+[cso.pharmaceutical]
+disp = "CSO"
+desc = "Contract Sales Organization"
+
+[cfd]
+disp = "CFD"
+desc = "Contract for Differences"

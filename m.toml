@@ -17,3 +17,7 @@ desc = "Master of Engineering Management"
 [mvp]
 disp = "MVP"
 desc = "Minimum Viable Product"
+
+[mbo]
+disp = "MBO"
+desc = "Management Buy-Outs"

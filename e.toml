@@ -5,3 +5,7 @@ desc = "Exchange-traded Fund"
 [eps]
 disp = "EPS"
 desc = "Earnings Per Share"
+
+[ea]
+disp = "EA"
+desc = "Expert Advisor"

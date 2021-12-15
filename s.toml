@@ -14,3 +14,6 @@ desc = "U.S. Securities and Exchange Commission"
 disp = "ST"
 desc = "Special treatment"
 
+[spif]
+disp = "SPIF"
+desc = "Share Price Index Futures"

@@ -1,3 +1,7 @@
 [qdii]
 disp = "QDII"
 desc = "Qualified Domestic Institutional Investor"
+
+[qe]
+disp = "QE"
+desc = "Quantitative Easing"

@@ -1,3 +1,7 @@
 [hkex]
 disp = "HKEX"
 desc = "Hong Kong Exchanges and Clearing"
+
+[hsi]
+disp = "HSI"
+desc = "Hang Seng Index"
