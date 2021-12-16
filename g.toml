@@ -9,3 +9,7 @@ desc = "Gross National Income"
 [gbp]
 disp = "GBP"
 desc = "Great British Pound"
+
+[gp]
+disp = "GP"
+desc = "General Partner"

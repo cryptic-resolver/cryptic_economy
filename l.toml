@@ -9,3 +9,7 @@ desc = "London Stock Exchange"
 [lme]
 disp = "LME"
 desc = "London Metal Exchange"
+
+[lp]
+disp = "LP"
+desc = "Limited Partner"

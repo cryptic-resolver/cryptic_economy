@@ -15,3 +15,7 @@ desc = "Beijing Stock Exchange"
 [bdi]
 disp = "BDI"
 desc = "Baltic Dry Index"
+
+[bba]
+disp = "BBA"
+desc = "Bachelor of Business Administration"

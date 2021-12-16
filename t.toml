@@ -1,3 +1,7 @@
 [tse]
 disp = "TSE"
 desc = "Tokyo Stock Exchange"
+
+[ttm]
+disp = "TTM"
+desc = "Trailing Twelve Months"
