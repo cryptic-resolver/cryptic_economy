@@ -21,3 +21,11 @@ desc = "Minimum Viable Product"
 [mbo]
 disp = "MBO"
 desc = "Management Buy-Outs"
+
+[mlf]
+disp = "MLF"
+desc = "Medium-term Lending Facility"
+
+[mmf]
+disp = "MMF"
+desc = "Money Market Fund"

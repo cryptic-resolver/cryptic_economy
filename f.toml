@@ -9,3 +9,7 @@ desc = "fund of funds"
 [ftse]
 disp = "FTSE"
 desc = "Financial Times Stock Exchange"
+
+[frm]
+disp = "FRM"
+desc = "Financial Risk Manager"

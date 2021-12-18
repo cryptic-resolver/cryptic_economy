@@ -13,3 +13,7 @@ desc = "London Metal Exchange"
 [lp]
 disp = "LP"
 desc = "Limited Partner"
+
+[lpr]
+disp = "LPR"
+desc = "Loan Prime Rate"

@@ -13,3 +13,7 @@ desc = "Great British Pound"
 [gp]
 disp = "GP"
 desc = "General Partner"
+
+[gips]
+disp = "GIPS"
+desc = "Global Investment Performance Standards"
