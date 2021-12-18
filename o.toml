@@ -1,3 +1,7 @@
 [o2o]
 disp = "O2O"
 desc = "Online to offline"
+
+[opec]
+disp = "OPEC"
+desc = "Organization of the Petroleum Exporting Countries"

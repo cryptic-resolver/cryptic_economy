@@ -17,3 +17,7 @@ desc = "General Partner"
 [gips]
 disp = "GIPS"
 desc = "Global Investment Performance Standards"
+
+[gatt]
+disp = "GATT"
+desc = "General Agreement on Tariffs and Trade"

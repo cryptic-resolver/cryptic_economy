@@ -10,3 +10,7 @@ see = ["FTSE","DJIA"]
 [djia]
 disp = "DJIA"
 desc = "Dow Jones Industrial Average"
+
+[dpo]
+disp = "DPO"
+desc = "Direct Public Offering"
