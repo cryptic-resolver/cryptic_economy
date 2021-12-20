@@ -1,3 +1,7 @@
 [vat]
 disp = "VAT"
 desc = "value-added tax"
+
+[vie]
+disp = "VIE"
+desc = "Variable Interest Entity"

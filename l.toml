@@ -17,3 +17,7 @@ desc = "Limited Partner"
 [lpr]
 disp = "LPR"
 desc = "Loan Prime Rate"
+
+[loop]
+disp = "LOOP"
+desc = "Law of one price"

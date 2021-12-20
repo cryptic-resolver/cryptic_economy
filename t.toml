@@ -5,3 +5,7 @@ desc = "Tokyo Stock Exchange"
 [ttm]
 disp = "TTM"
 desc = "Trailing Twelve Months"
+
+[tmt]
+disp = "TMT"
+desc = "Technology，Media，Telecom"

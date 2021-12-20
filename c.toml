@@ -41,3 +41,7 @@ desc = "Contract Sales Organization"
 [cfd]
 disp = "CFD"
 desc = "Contract for Differences"
+
+[cds]
+disp = "CDS"
+desc = "Credit Default Swap"

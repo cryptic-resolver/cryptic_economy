@@ -1,3 +1,7 @@
 [ase]
 disp = "ASE"
 desc = "Australian Securities Exchange"
+
+[abs]
+disp = "ABS"
+desc = "Asset-backed security"
