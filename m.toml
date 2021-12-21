@@ -29,3 +29,7 @@ desc = "Medium-term Lending Facility"
 [mmf]
 disp = "MMF"
 desc = "Money Market Fund"
+
+[macd]
+disp = "MACD"
+desc = "Moving Average Convergence Divergence"
