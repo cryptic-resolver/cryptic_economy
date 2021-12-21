@@ -21,3 +21,7 @@ same = 'p/b'
 ['p/b']
 disp = "P/B"
 desc = "Price-to-Book Ratio"
+
+[pmp]
+disp = "PMP"
+desc = "Project Management Professional"

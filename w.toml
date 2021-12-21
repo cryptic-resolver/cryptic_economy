@@ -5,3 +5,7 @@ desc = "World Bank"
 [wto]
 disp = "WTO"
 desc = "World Trade Organization"
+
+[wti]
+disp = "WTI"
+desc = "West Texas Intermediate"
