@@ -13,3 +13,7 @@ desc = "Retail Price Index"
 [rsi]
 disp = "RSI"
 desc = "Relative Strength Index"
+
+[rsv]
+disp = "RSV"
+desc = "Raw Stochastic Value"

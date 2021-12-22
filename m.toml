@@ -37,3 +37,7 @@ desc = "Moving Average Convergence Divergence"
 [mib]
 disp = "MIB"
 desc = "Milano Indice di Borsa"
+
+[ma]
+disp = "MA"
+desc = "Moving Average"

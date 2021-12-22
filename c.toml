@@ -49,3 +49,7 @@ desc = "Credit Default Swap"
 [cac]
 disp = "CAC40"
 desc = "Cotation Assistée en Continu (French stock market index)"
+
+[cci]
+disp = "CCI"
+desc = "Commodity Channel Index"

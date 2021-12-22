@@ -19,3 +19,7 @@ desc = "Baltic Dry Index"
 [bba]
 disp = "BBA"
 desc = "Bachelor of Business Administration"
+
+[boll]
+disp = "BOLL"
+desc = "Bollinger Bands"
