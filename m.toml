@@ -33,3 +33,7 @@ desc = "Money Market Fund"
 [macd]
 disp = "MACD"
 desc = "Moving Average Convergence Divergence"
+
+[mib]
+disp = "MIB"
+desc = "Milano Indice di Borsa"

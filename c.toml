@@ -45,3 +45,7 @@ desc = "Contract for Differences"
 [cds]
 disp = "CDS"
 desc = "Credit Default Swap"
+
+[cac]
+disp = "CAC40"
+desc = "Cotation Assistée en Continu (French stock market index)"

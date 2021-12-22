@@ -5,3 +5,12 @@ desc = "Australian Securities Exchange"
 [abs]
 disp = "ABS"
 desc = "Asset-backed security"
+
+[ads]
+disp = "ADS"
+desc = "American Depositary Shares"
+
+
+[adr]
+disp = "ADR"
+desc = "American Depositary Receipts"

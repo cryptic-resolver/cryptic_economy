@@ -5,3 +5,11 @@ desc = "International Monetary Fund"
 [imm]
 disp = "IMM"
 desc = "International Monetary Market"
+
+[ibex]
+disp = "IBEX35"
+desc = "IBerian IndEX"
+
+[idc]
+disp = "IDC"
+desc = "Interactive Data Corporation"
