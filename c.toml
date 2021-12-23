@@ -53,3 +53,11 @@ desc = "Cotation Assistée en Continu (French stock market index)"
 [cci]
 disp = "CCI"
 desc = "Commodity Channel Index"
+
+[cffex]
+disp = "CFFEX"
+desc = "China Financial Futures Exchange"
+
+[czce]
+disp = "CZCE"
+desc = "Zhengzhou Commodity Exchange"

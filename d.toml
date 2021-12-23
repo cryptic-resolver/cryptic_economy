@@ -14,3 +14,7 @@ desc = "Dow Jones Industrial Average"
 [dpo]
 disp = "DPO"
 desc = "Direct Public Offering"
+
+[dce]
+disp = "DCE"
+desc = "Dalian Commodity Exchange"
