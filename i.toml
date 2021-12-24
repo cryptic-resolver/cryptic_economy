@@ -13,3 +13,7 @@ desc = "IBerian IndEX"
 [idc]
 disp = "IDC"
 desc = "Interactive Data Corporation"
+
+[ifi]
+disp = "IFI"
+desc = "Information Sciences Institute"

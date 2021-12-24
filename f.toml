@@ -13,3 +13,7 @@ desc = "Financial Times Stock Exchange"
 [frm]
 disp = "FRM"
 desc = "Financial Risk Manager"
+
+[fdi]
+disp = "FDI"
+desc = "Foreign Direct Investment"

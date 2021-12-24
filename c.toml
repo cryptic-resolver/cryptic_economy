@@ -18,6 +18,10 @@ desc = "China Securities Index"
 disp = "CBOT"
 desc = "Chicago Board of Trade"
 
+[cboe]
+disp = "CBOE"
+desc = "Chicago Board Options Exchange"
+
 [cme]
 disp = "CME"
 desc = "Chicago Mercantile Exchange"

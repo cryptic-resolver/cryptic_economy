@@ -25,3 +25,7 @@ desc = "Price-to-Book Ratio"
 [pmp]
 disp = "PMP"
 desc = "Project Management Professional"
+
+[pmi]
+disp = "PMI"
+desc = "Purchasing Managers' Index"
