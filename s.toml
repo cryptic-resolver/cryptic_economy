@@ -21,3 +21,7 @@ desc = "Share Price Index Futures"
 [shfe]
 disp = "SHFE"
 desc = "Shanghai Futures Exchange"
+
+[sdr]
+disp = "SDR"
+desc = "Special Drawing Rights"

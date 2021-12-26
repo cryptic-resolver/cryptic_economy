@@ -9,3 +9,7 @@ desc = "Earnings Per Share"
 [ea]
 disp = "EA"
 desc = "Expert Advisor"
+
+[ems]
+disp = "EMS"
+desc = "European Monetary System"

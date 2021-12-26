@@ -5,3 +5,7 @@ desc = "Online to offline"
 [opec]
 disp = "OPEC"
 desc = "Organization of the Petroleum Exporting Countries"
+
+[otc]
+disp = "OTC"
+desc = "Over-the-counter"

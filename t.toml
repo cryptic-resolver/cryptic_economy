@@ -9,3 +9,7 @@ desc = "Trailing Twelve Months"
 [tmt]
 disp = "TMT"
 desc = "Technology，Media，Telecom"
+
+[tfp]
+disp = "TFP"
+desc = "Total Factor Productivity"
