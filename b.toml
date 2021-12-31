@@ -27,3 +27,7 @@ desc = "Bollinger Bands"
 [bop]
 disp = "BOP"
 desc = "Balance of Payments"
+
+[bp]
+disp = "BP"
+desc = "Basis Point 0.01%"
