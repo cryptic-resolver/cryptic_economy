@@ -1,3 +1,8 @@
 [ubs]
 disc = "UBS"
 desc = "Union Bank of Switzerland"
+
+[upc]
+disp = "UPC"
+desc = "Universal Product Code"
+full = "A barcode symbology that is widely used worldwide for tracking trade items in stores."
