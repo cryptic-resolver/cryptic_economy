@@ -65,3 +65,7 @@ desc = "China Financial Futures Exchange"
 [czce]
 disp = "CZCE"
 desc = "Zhengzhou Commodity Exchange"
+
+[cosco]
+disp = "COSCO"
+desc = "China Ocean Shipping Company"
