@@ -3,20 +3,20 @@ disp = "PPI"
 desc = "Producer Price Index"
 
 [pe]
-same = 'p/e'
+same = 'P/E<=>p/e'
 
 [per]
-same = 'p/e'
+same = 'P/E<=>p/e'
 
 ['p/e']
 disp = "P/E"
 desc = "Price–to-Earnings Ratio"
 
 [pb]
-same = 'p/b'
+same = 'P/B<=>p/b'
 
 [pbr]
-same = 'p/b'
+same = 'P/B<=>p/b'
 
 ['p/b']
 disp = "P/B"
