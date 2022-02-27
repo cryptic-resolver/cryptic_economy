@@ -25,3 +25,7 @@ desc = "Shanghai Futures Exchange"
 [sdr]
 disp = "SDR"
 desc = "Special Drawing Rights"
+
+[swift]
+disp = "SWIFT"
+desc = "Society for Worldwide Interbank Financial Telecommunication"
