@@ -21,3 +21,7 @@ desc = "Loan Prime Rate"
 [loop]
 disp = "LOOP"
 desc = "Law of one price"
+
+[llc]
+disp = "LLC"
+desc = "Limited Liability Company"
