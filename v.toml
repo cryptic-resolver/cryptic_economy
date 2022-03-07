@@ -5,3 +5,7 @@ desc = "value-added tax"
 [vie]
 disp = "VIE"
 desc = "Variable Interest Entity"
+
+[vc]
+disp = "VC"
+desc = "Venture Capital"
