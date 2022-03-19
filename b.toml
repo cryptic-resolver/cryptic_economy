@@ -31,3 +31,7 @@ desc = "Balance of Payments"
 [bp]
 disp = "BP"
 desc = "Basis Point 0.01%"
+
+[bpm]
+disp = "BPM"
+desc = "Business Process Management"
