@@ -1,23 +1,23 @@
 [gnp]
-disp = "GNP"
+name = "GNP"
 desc = "Gross National Product"
 
 [gni]
-disp = "GNI"
+name = "GNI"
 desc = "Gross National Income"
 
 [gbp]
-disp = "GBP"
+name = "GBP"
 desc = "Great British Pound"
 
 [gp]
-disp = "GP"
+name = "GP"
 desc = "General Partner"
 
 [gips]
-disp = "GIPS"
+name = "GIPS"
 desc = "Global Investment Performance Standards"
 
 [gatt]
-disp = "GATT"
+name = "GATT"
 desc = "General Agreement on Tariffs and Trade"

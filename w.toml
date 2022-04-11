@@ -1,11 +1,11 @@
 [wb]
-disp = "WB"
+name = "WB"
 desc = "World Bank"
 
 [wto]
-disp = "WTO"
+name = "WTO"
 desc = "World Trade Organization"
 
 [wti]
-disp = "WTI"
+name = "WTI"
 desc = "West Texas Intermediate"

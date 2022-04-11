@@ -1,19 +1,19 @@
 [nyse]
-disp = "NYSE"
+name = "NYSE"
 desc = "New York Stock Exchange"
 
 [nasdaq]
-disp = "NASDAQ"
+name = "NASDAQ"
 desc = "National Association of Securities Dealers Automated Quotations"
 
 [nasd]
-disp = "NASD"
+name = "NASD"
 desc = "National Association of Securities Dealers"
 
 [nft]
-disp = "NFT"
+name = "NFT"
 desc = "Non-fungible Tokens"
 
 [nymex]
-disp = "NYMEX"
+name = "NYMEX"
 desc = "New York Mercantile Exchange"

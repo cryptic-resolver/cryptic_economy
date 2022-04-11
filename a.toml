@@ -1,16 +1,16 @@
 [ase]
-disp = "ASE"
+name = "ASE"
 desc = "Australian Securities Exchange"
 
 [abs]
-disp = "ABS"
+name = "ABS"
 desc = "Asset-backed security"
 
 [ads]
-disp = "ADS"
+name = "ADS"
 desc = "American Depositary Shares"
 
 
 [adr]
-disp = "ADR"
+name = "ADR"
 desc = "American Depositary Receipts"

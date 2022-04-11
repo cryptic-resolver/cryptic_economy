@@ -1,37 +1,37 @@
 [bg]
-disp = "BG"
+name = "BG"
 desc = "Business Group"
 see = ["BU"]
 
 [bu]
-disp = "BU"
+name = "BU"
 desc = "Business Unit"
 see = ["BG"]
 
 [bse]
-disp = "BSE"
+name = "BSE"
 desc = "Beijing Stock Exchange"
 
 [bdi]
-disp = "BDI"
+name = "BDI"
 desc = "Baltic Dry Index"
 
 [bba]
-disp = "BBA"
+name = "BBA"
 desc = "Bachelor of Business Administration"
 
 [boll]
-disp = "BOLL"
+name = "BOLL"
 desc = "Bollinger Bands"
 
 [bop]
-disp = "BOP"
+name = "BOP"
 desc = "Balance of Payments"
 
 [bp]
-disp = "BP"
+name = "BP"
 desc = "Basis Point 0.01%"
 
 [bpm]
-disp = "BPM"
+name = "BPM"
 desc = "Business Process Management"

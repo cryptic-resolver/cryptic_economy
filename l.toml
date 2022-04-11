@@ -1,27 +1,27 @@
 [lof]
-disp = "LOF"
+name = "LOF"
 desc = "Listed Open-Ended Fund"
 
 [lse]
-disp = "LSE"
+name = "LSE"
 desc = "London Stock Exchange"
 
 [lme]
-disp = "LME"
+name = "LME"
 desc = "London Metal Exchange"
 
 [lp]
-disp = "LP"
+name = "LP"
 desc = "Limited Partner"
 
 [lpr]
-disp = "LPR"
+name = "LPR"
 desc = "Loan Prime Rate"
 
 [loop]
-disp = "LOOP"
+name = "LOOP"
 desc = "Law of one price"
 
 [llc]
-disp = "LLC"
+name = "LLC"
 desc = "Limited Liability Company"

@@ -1,31 +1,31 @@
 [sse]
-disp = "SSE"
+name = "SSE"
 desc = "Shanghai Stock Exchange"
 
 [szse]
-disp = "SZSE"
+name = "SZSE"
 desc = "Shenzhen Stock Exchange"
 
 [sec]
-disp = "SEC"
+name = "SEC"
 desc = "U.S. Securities and Exchange Commission"
 
 [st]
-disp = "ST"
+name = "ST"
 desc = "Special treatment"
 
 [spif]
-disp = "SPIF"
+name = "SPIF"
 desc = "Share Price Index Futures"
 
 [shfe]
-disp = "SHFE"
+name = "SHFE"
 desc = "Shanghai Futures Exchange"
 
 [sdr]
-disp = "SDR"
+name = "SDR"
 desc = "Special Drawing Rights"
 
 [swift]
-disp = "SWIFT"
+name = "SWIFT"
 desc = "Society for Worldwide Interbank Financial Telecommunication"

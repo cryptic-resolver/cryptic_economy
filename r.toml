@@ -1,19 +1,19 @@
 [roe]
-disp = "ROE"
+name = "ROE"
 desc = "Return on Equity"
 
 [roi]
-disp = "ROI"
+name = "ROI"
 desc = "Return on Investment"
 
 [rpi]
-disp = "RPI"
+name = "RPI"
 desc = "Retail Price Index"
 
 [rsi]
-disp = "RSI"
+name = "RSI"
 desc = "Relative Strength Index"
 
 [rsv]
-disp = "RSV"
+name = "RSV"
 desc = "Raw Stochastic Value"

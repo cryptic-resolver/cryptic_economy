@@ -1,11 +1,11 @@
 [vat]
-disp = "VAT"
+name = "VAT"
 desc = "value-added tax"
 
 [vie]
-disp = "VIE"
+name = "VIE"
 desc = "Variable Interest Entity"
 
 [vc]
-disp = "VC"
+name = "VC"
 desc = "Venture Capital"

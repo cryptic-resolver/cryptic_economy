@@ -1,5 +1,5 @@
 [ppi]
-disp = "PPI"
+name = "PPI"
 desc = "Producer Price Index"
 
 [pe]
@@ -9,7 +9,7 @@ same = 'P/E<=>p/e'
 same = 'P/E<=>p/e'
 
 ['p/e']
-disp = "P/E"
+name = "P/E"
 desc = "Price–to-Earnings Ratio"
 
 [pb]
@@ -19,13 +19,13 @@ same = 'P/B<=>p/b'
 same = 'P/B<=>p/b'
 
 ['p/b']
-disp = "P/B"
+name = "P/B"
 desc = "Price-to-Book Ratio"
 
 [pmp]
-disp = "PMP"
+name = "PMP"
 desc = "Project Management Professional"
 
 [pmi]
-disp = "PMI"
+name = "PMI"
 desc = "Purchasing Managers' Index"

@@ -1,11 +1,11 @@
 [o2o]
-disp = "O2O"
+name = "O2O"
 desc = "Online to offline"
 
 [opec]
-disp = "OPEC"
+name = "OPEC"
 desc = "Organization of the Petroleum Exporting Countries"
 
 [otc]
-disp = "OTC"
+name = "OTC"
 desc = "Over-the-counter"

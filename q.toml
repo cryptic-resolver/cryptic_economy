@@ -1,7 +1,7 @@
 [qdii]
-disp = "QDII"
+name = "QDII"
 desc = "Qualified Domestic Institutional Investor"
 
 [qe]
-disp = "QE"
+name = "QE"
 desc = "Quantitative Easing"

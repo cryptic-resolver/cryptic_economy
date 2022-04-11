@@ -1,15 +1,15 @@
 [tse]
-disp = "TSE"
+name = "TSE"
 desc = "Tokyo Stock Exchange"
 
 [ttm]
-disp = "TTM"
+name = "TTM"
 desc = "Trailing Twelve Months"
 
 [tmt]
-disp = "TMT"
+name = "TMT"
 desc = "Technology，Media，Telecom"
 
 [tfp]
-disp = "TFP"
+name = "TFP"
 desc = "Total Factor Productivity"

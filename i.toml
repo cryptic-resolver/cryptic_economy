@@ -1,19 +1,19 @@
 [imf]
-disp = "IMF"
+name = "IMF"
 desc = "International Monetary Fund"
 
 [imm]
-disp = "IMM"
+name = "IMM"
 desc = "International Monetary Market"
 
 [ibex]
-disp = "IBEX35"
+name = "IBEX35"
 desc = "IBerian IndEX"
 
 [idc]
-disp = "IDC"
+name = "IDC"
 desc = "Interactive Data Corporation"
 
 [ifi]
-disp = "IFI"
+name = "IFI"
 desc = "Information Sciences Institute"

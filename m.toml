@@ -1,43 +1,43 @@
 [mpa]
-disp = "MPA"
+name = "MPA"
 desc = "Master of Public Administration"
 
 [mba]
-disp = "MBA"
+name = "MBA"
 desc = "Master of Business Administration"
 
 [mpm]
-disp = "MPM"
+name = "MPM"
 desc = "Master of Project Management"
 
 [mem]
-disp = "MEM"
+name = "MEM"
 desc = "Master of Engineering Management"
 
 [mvp]
-disp = "MVP"
+name = "MVP"
 desc = "Minimum Viable Product"
 
 [mbo]
-disp = "MBO"
+name = "MBO"
 desc = "Management Buy-Outs"
 
 [mlf]
-disp = "MLF"
+name = "MLF"
 desc = "Medium-term Lending Facility"
 
 [mmf]
-disp = "MMF"
+name = "MMF"
 desc = "Money Market Fund"
 
 [macd]
-disp = "MACD"
+name = "MACD"
 desc = "Moving Average Convergence Divergence"
 
 [mib]
-disp = "MIB"
+name = "MIB"
 desc = "Milano Indice di Borsa"
 
 [ma]
-disp = "MA"
+name = "MA"
 desc = "Moving Average"

@@ -1,15 +1,15 @@
 [etf]
-disp = "ETF"
+name = "ETF"
 desc = "Exchange-traded Fund"
 
 [eps]
-disp = "EPS"
+name = "EPS"
 desc = "Earnings Per Share"
 
 [ea]
-disp = "EA"
+name = "EA"
 desc = "Expert Advisor"
 
 [ems]
-disp = "EMS"
+name = "EMS"
 desc = "European Monetary System"

@@ -1,20 +1,20 @@
 [dex]
-disp = "DEX"
+name = "DEX"
 desc = "Decentralized Exchanges"
 
 [dax]
-disp = "DAX"
+name = "DAX"
 desc = "Deutscher Aktienindex (German stock index)"
 see = ["FTSE","DJIA"]
 
 [djia]
-disp = "DJIA"
+name = "DJIA"
 desc = "Dow Jones Industrial Average"
 
 [dpo]
-disp = "DPO"
+name = "DPO"
 desc = "Direct Public Offering"
 
 [dce]
-disp = "DCE"
+name = "DCE"
 desc = "Dalian Commodity Exchange"
