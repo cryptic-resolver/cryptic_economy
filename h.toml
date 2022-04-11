@@ -13,4 +13,4 @@ desc = "Human Development Index"
 [hsbc]
 name = "HSBC"
 desc = "the Hongkong and Shanghai Banking Corporation Group"
-full = "A British multinational investment bank and financial services holding company"
+more = "A British multinational investment bank and financial services holding company"
