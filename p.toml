@@ -29,3 +29,7 @@ desc = "Project Management Professional"
 [pmi]
 name = "PMI"
 desc = "Purchasing Managers' Index"
+
+[pmi.Project]
+name = "PMI"
+desc = "Project Management Institute"
