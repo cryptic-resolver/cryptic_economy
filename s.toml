@@ -29,3 +29,7 @@ desc = "Special Drawing Rights"
 [swift]
 name = "SWIFT"
 desc = "Society for Worldwide Interbank Financial Telecommunication"
+
+[swot]
+name = "SWOT"
+desc = "Strengths, Weaknesses, Opportunities, and Threats"

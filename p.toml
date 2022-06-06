@@ -33,3 +33,7 @@ desc = "Purchasing Managers' Index"
 [pmi.Project]
 name = "PMI"
 desc = "Project Management Institute"
+
+[pdm]
+name = "PDM"
+desc = "Precedence Diagramming Method"

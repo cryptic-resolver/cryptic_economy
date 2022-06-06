@@ -9,3 +9,7 @@ desc = "World Trade Organization"
 [wti]
 name = "WTI"
 desc = "West Texas Intermediate"
+
+[wbs]
+name = "WBS"
+desc = "Work Breakdown Structure"
