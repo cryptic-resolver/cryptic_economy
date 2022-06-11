@@ -37,3 +37,7 @@ desc = "Project Management Institute"
 [pdm]
 name = "PDM"
 desc = "Precedence Diagramming Method"
+
+[pert]
+name = "PERT"
+desc = "Program Evaluation and Review Technique"
