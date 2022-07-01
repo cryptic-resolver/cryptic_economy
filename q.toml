@@ -1,6 +1,12 @@
 [qdii]
 name = "QDII"
 desc = "Qualified Domestic Institutional Investor"
+see = ['QFII']
+
+[qfii]
+name = "QFII"
+desc = "Qualified Foreign Institutional Investor"
+see = ['QDII']
 
 [qe]
 name = "QE"

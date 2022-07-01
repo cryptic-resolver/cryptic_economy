@@ -9,3 +9,8 @@ desc = "Organization of the Petroleum Exporting Countries"
 [otc]
 name = "OTC"
 desc = "Over-the-counter"
+
+[odi]
+name = "ODI"
+desc = "Outward Direct Investment"
+see = ['FDI']

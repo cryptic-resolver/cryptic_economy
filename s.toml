@@ -33,3 +33,7 @@ desc = "Society for Worldwide Interbank Financial Telecommunication"
 [swot]
 name = "SWOT"
 desc = "Strengths, Weaknesses, Opportunities, and Threats"
+
+[spac]
+name = "SPAC"
+desc = "Special Purpose Acquisition Company"

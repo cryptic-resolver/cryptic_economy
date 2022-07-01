@@ -17,3 +17,4 @@ desc = "Financial Risk Manager"
 [fdi]
 name = "FDI"
 desc = "Foreign Direct Investment"
+see = ['ODI']

@@ -41,3 +41,7 @@ desc = "Milano Indice di Borsa"
 [ma]
 name = "MA"
 desc = "Moving Average"
+
+[msci]
+name = "MSCI"
+desc = "Morgan Stanley Capital International"
