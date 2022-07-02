@@ -45,3 +45,7 @@ desc = "Moving Average"
 [msci]
 name = "MSCI"
 desc = "Morgan Stanley Capital International"
+
+[mcn]
+name = "MCN"
+desc = "Multi-Channel Network"

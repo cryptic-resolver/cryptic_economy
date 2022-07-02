@@ -14,3 +14,7 @@ desc = "Over-the-counter"
 name = "ODI"
 desc = "Outward Direct Investment"
 see = ['FDI']
+
+[ogc]
+name = "OGC"
+desc = "Occupationally-generated Content"

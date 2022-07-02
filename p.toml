@@ -41,3 +41,7 @@ desc = "Precedence Diagramming Method"
 [pert]
 name = "PERT"
 desc = "Program Evaluation and Review Technique"
+
+[pgc]
+name = "PGC"
+desc = "Professionally Generated Content"

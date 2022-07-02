@@ -6,3 +6,7 @@ desc = "Union Bank of Switzerland"
 name = "UPC"
 desc = "Universal Product Code"
 more = "A barcode symbology that is widely used worldwide for tracking trade items in stores."
+
+[ugc]
+name = "UGC"
+desc = "User-Generated Content"

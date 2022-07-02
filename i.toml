@@ -17,3 +17,7 @@ desc = "Interactive Data Corporation"
 [ifi]
 name = "IFI"
 desc = "Information Sciences Institute"
+
+[ip]
+name = "IP"
+desc = "Intellectual Property"

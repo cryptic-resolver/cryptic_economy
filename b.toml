@@ -35,3 +35,7 @@ desc = "Basis Point 0.01%"
 [bpm]
 name = "BPM"
 desc = "Business Process Management"
+
+[bp.plan]
+name = "BP"
+desc = "Business Plan"

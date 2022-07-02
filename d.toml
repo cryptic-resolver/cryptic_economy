@@ -18,3 +18,11 @@ desc = "Direct Public Offering"
 [dce]
 name = "DCE"
 desc = "Dalian Commodity Exchange"
+
+[dd]
+name = "DD"
+desc = "Due Diligence"
+
+[dcf]
+name = "DCF"
+desc = "Discounted Cash Flow"

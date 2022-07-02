@@ -37,3 +37,7 @@ desc = "Strengths, Weaknesses, Opportunities, and Threats"
 [spac]
 name = "SPAC"
 desc = "Special Purpose Acquisition Company"
+
+[sku]
+name = "SKU"
+desc = "Stock Keeping Unit"
