@@ -45,3 +45,7 @@ desc = "Program Evaluation and Review Technique"
 [pgc]
 name = "PGC"
 desc = "Professionally Generated Content"
+
+[pdca]
+name = "PDCA"
+desc = "Plan, Do, Check, Act"
