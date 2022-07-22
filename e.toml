@@ -13,3 +13,7 @@ desc = "Expert Advisor"
 [ems]
 name = "EMS"
 desc = "European Monetary System"
+
+[emba]
+name = "EMBA"
+desc = "Executive Master of Business Administration"
