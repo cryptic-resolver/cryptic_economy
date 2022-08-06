@@ -17,3 +17,11 @@ desc = "European Monetary System"
 [emba]
 name = "EMBA"
 desc = "Executive Master of Business Administration"
+
+[ebitda]
+name = "EBITDA"
+desc = "Earnings Before Interest, Taxes, Depreciation and Amortization"
+
+[ev]
+name = "EV"
+desc = "Enterprise Value"

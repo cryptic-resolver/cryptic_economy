@@ -17,3 +17,7 @@ desc = "Non-fungible Tokens"
 [nymex]
 name = "NYMEX"
 desc = "New York Mercantile Exchange"
+
+[nre]
+name = "NRE"
+desc = "Non-Recurring Engineering"
