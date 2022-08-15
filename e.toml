@@ -25,3 +25,7 @@ desc = "Earnings Before Interest, Taxes, Depreciation and Amortization"
 [ev]
 name = "EV"
 desc = "Enterprise Value"
+
+[ecm]
+name = "ECM"
+desc = "Enterprise Content Management"

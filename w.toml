@@ -13,3 +13,7 @@ desc = "West Texas Intermediate"
 [wbs]
 name = "WBS"
 desc = "Work Breakdown Structure"
+
+[wacc]
+name = "WACC"
+desc = "Weighted Average Cost of Capital"
