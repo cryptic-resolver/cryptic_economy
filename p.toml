@@ -49,3 +49,7 @@ desc = "Professionally Generated Content"
 [pdca]
 name = "PDCA"
 desc = "Plan, Do, Check, Act"
+
+[pr]
+name = "PR"
+desc = "Public Relation"
