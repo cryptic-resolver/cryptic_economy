@@ -69,3 +69,7 @@ desc = "Zhengzhou Commodity Exchange"
 [cosco]
 name = "COSCO"
 desc = "China Ocean Shipping Company"
+
+[ccc]
+name = "CCC"
+desc = "Cash Conversion Cycle"

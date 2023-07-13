@@ -13,3 +13,7 @@ desc = "Technology，Media，Telecom"
 [tfp]
 name = "TFP"
 desc = "Total Factor Productivity"
+
+[tsx]
+name = "TSX"
+desc = "Toronto Stock eXchange"

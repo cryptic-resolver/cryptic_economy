@@ -21,3 +21,7 @@ desc = "New York Mercantile Exchange"
 [nre]
 name = "NRE"
 desc = "Non-Recurring Engineering"
+
+[npv]
+name = "NPV"
+desc = "Net Present Value"

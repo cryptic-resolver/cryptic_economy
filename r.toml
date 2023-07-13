@@ -1,6 +1,14 @@
+[roa]
+name = "ROA"
+desc = "Return on Assets"
+
 [roe]
 name = "ROE"
 desc = "Return on Equity"
+
+[roc]
+name = "ROC"
+desc = "Return on Capital"
 
 [roi]
 name = "ROI"

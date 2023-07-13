@@ -25,3 +25,4 @@ desc = "Intellectual Property"
 [ifrs]
 name = "IFRS"
 desc = "International Financial Reporting Standards"
+see = 'GAAP'

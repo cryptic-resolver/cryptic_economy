@@ -21,3 +21,9 @@ desc = "Global Investment Performance Standards"
 [gatt]
 name = "GATT"
 desc = "General Agreement on Tariffs and Trade"
+
+[gaap]
+name = "GAAP"
+desc = "Generally Accepted Accounting Principle"
+more = "Used in America"
+see = 'IFRS'
