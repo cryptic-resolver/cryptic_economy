@@ -1,6 +1,23 @@
+[etp]
+name = "ETP"
+desc = "Exchange-Traded Product"
+
 [etf]
 name = "ETF"
-desc = "Exchange-traded Fund"
+desc = "Exchange-Traded Fund"
+
+[etn]
+name = "ETN"
+desc = "Exchange-Traded Notes"
+
+[etc]
+name = "ETC"
+desc = "Exchange-Traded Commodities"
+
+[ecn]
+name = "ECN"
+desc = "Electronic Communication Network"
+more = "A digital system that matches buyers and sellers looking to trade securities in the financial markets"
 
 [eps]
 name = "EPS"
@@ -29,3 +46,4 @@ desc = "Enterprise Value"
 [ecm]
 name = "ECM"
 desc = "Enterprise Content Management"
+

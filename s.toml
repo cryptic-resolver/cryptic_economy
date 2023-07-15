@@ -41,3 +41,7 @@ desc = "Special Purpose Acquisition Company"
 [sku]
 name = "SKU"
 desc = "Stock Keeping Unit"
+
+[spdr]
+name = "SPDR"
+desc = "Standard & Poor's Depositary Receipt"

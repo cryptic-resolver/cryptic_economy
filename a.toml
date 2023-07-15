@@ -10,7 +10,10 @@ desc = "Asset-backed security"
 name = "ADS"
 desc = "American Depositary Shares"
 
-
 [adr]
 name = "ADR"
 desc = "American Depositary Receipts"
+
+[amex]
+name = "AMEX"
+desc = "American Stock Exchange"
