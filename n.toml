@@ -25,3 +25,13 @@ desc = "Non-Recurring Engineering"
 [npv]
 name = "NPV"
 desc = "Net Present Value"
+
+[nav]
+name = "NAV"
+desc = "Net Asset Value"
+more = "The market value of a mutual fund's or ETFs total assets, minus liabilities, divided by the number of shares outstanding."
+
+[nse]
+name = "NSE"
+desc = "National Stock Exchange (India)"
+see = 'BSE'

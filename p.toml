@@ -11,6 +11,7 @@ same = 'P/E=>p/e'
 ['p/e']
 name = "P/E"
 desc = "Price–to-Earnings Ratio"
+see = ['P/B', 'P/S']
 
 [pb]
 same = 'P/B=>p/b'
@@ -21,6 +22,15 @@ same = 'P/B=>p/b'
 ['p/b']
 name = "P/B"
 desc = "Price-to-Book Ratio"
+see = ['P/E', 'P/S']
+
+[ps]
+same = 'P/S=>p/s'
+
+['p/s']
+name = "P/S"
+desc = "Price-to-Sales Ratio"
+see = ['P/E', 'P/B']
 
 [pmp]
 name = "PMP"

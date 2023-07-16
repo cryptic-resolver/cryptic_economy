@@ -25,3 +25,7 @@ desc = "Law of one price"
 [llc]
 name = "LLC"
 desc = "Limited Liability Company"
+
+[lbmn]
+name = "LBMN"
+desc = "London Bullion Market Association"

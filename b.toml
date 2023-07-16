@@ -8,9 +8,14 @@ name = "BU"
 desc = "Business Unit"
 see = ["BG"]
 
-[bse]
+[bse.Beijing]
 name = "BSE"
 desc = "Beijing Stock Exchange"
+
+[bse.India]
+name = "BSE"
+desc = "Bombay Stock Exchange"
+see = 'NSE'
 
 [bdi]
 name = "BDI"

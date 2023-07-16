@@ -45,3 +45,8 @@ desc = "Stock Keeping Unit"
 [spdr]
 name = "SPDR"
 desc = "Standard & Poor's Depositary Receipt"
+
+[sensex]
+name = "SENSEX"
+desc = "Stock Exchange Sensitive Index"
+more = "It is a free-float market-weighted stock market index of 30 well-established and financially sound companies listed on the Bombay Stock Exchange (BSE)"

@@ -26,3 +26,9 @@ desc = "Intellectual Property"
 name = "IFRS"
 desc = "International Financial Reporting Standards"
 see = 'GAAP'
+
+[isin]
+name = "ISIN"
+desc = "International Securities Identification Number"
+more = " It is a 12-digit code that uniquely identifies a security in the world. ISIN codes are assigned by the ISO and are used by financial institutions to track securities."
+see = 'COUSIP'

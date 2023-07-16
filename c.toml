@@ -73,3 +73,9 @@ desc = "China Ocean Shipping Company"
 [ccc]
 name = "CCC"
 desc = "Cash Conversion Cycle"
+
+[cusip]
+name = "CUSIP"
+desc = "Committee on Uniform Securities Identification Procedures"
+more = "A nine-digit code that uniquely identifies a security in the United States. CUSIP codes are assigned by the American Bankers Association (ABA) and are used by financial institutions to track securities."
+see = 'ISIN'
