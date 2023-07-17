@@ -47,3 +47,6 @@ desc = "Enterprise Value"
 name = "ECM"
 desc = "Enterprise Content Management"
 
+[edgar]
+name = "EDGAR"
+desc = "Electronic Data Gathering, Analysis, and Retrieval System"

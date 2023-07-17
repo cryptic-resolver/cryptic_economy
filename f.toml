@@ -18,3 +18,7 @@ desc = "Financial Risk Manager"
 name = "FDI"
 desc = "Foreign Direct Investment"
 see = ['ODI']
+
+[fcf]
+name = "FCF"
+desc = "Free Cash Flow"

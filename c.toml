@@ -79,3 +79,7 @@ name = "CUSIP"
 desc = "Committee on Uniform Securities Identification Procedures"
 more = "A nine-digit code that uniquely identifies a security in the United States. CUSIP codes are assigned by the American Bankers Association (ABA) and are used by financial institutions to track securities."
 see = 'ISIN'
+
+[cogs]
+name = "COGS"
+desc = "Cost of Goods Sold"

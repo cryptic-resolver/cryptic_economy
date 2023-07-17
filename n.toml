@@ -35,3 +35,9 @@ more = "The market value of a mutual fund's or ETFs total assets, minus liabilit
 name = "NSE"
 desc = "National Stock Exchange (India)"
 see = 'BSE'
+
+[ntr]
+name = "NTR"
+desc = "Net Total Return"
+more = "It is a type of index that measures the total return of a group of stocks, including dividends"
+
