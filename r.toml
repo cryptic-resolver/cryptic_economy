@@ -21,6 +21,7 @@ desc = "Retail Price Index"
 [rsi]
 name = "RSI"
 desc = "Relative Strength Index"
+see = ['MACD', 'KDJ']
 
 [rsv]
 name = "RSV"

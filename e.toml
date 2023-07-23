@@ -50,3 +50,8 @@ desc = "Enterprise Content Management"
 [edgar]
 name = "EDGAR"
 desc = "Electronic Data Gathering, Analysis, and Retrieval System"
+
+[esg]
+name = "ESG"
+desc = "Environmental, Social, and Governance"
+more = "It is a framework used to assess an organization's business practices and performance on various sustainability and ethical issues. It also provides a way to measure business risks and opportunities in those areas"

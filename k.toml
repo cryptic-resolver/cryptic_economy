@@ -1,3 +1,9 @@
 [kpi]
 name = "KPI"
 desc = "Key Performance Indicator"
+
+[kdj]
+name = "KDJ"
+desc = "Stochastic Oscillator"
+more = "The KDJ indicator is named after its three inventors: George C. Lane, Donald Lambert, and J. Welles Wilder Jr. The initials of their last names, K, D, and J, were used to create the name of the indicator"
+see = ['MACD', 'RSI']

@@ -32,3 +32,7 @@ name = "ISIN"
 desc = "International Securities Identification Number"
 more = " It is a 12-digit code that uniquely identifies a security in the world. ISIN codes are assigned by the ISO and are used by financial institutions to track securities."
 see = 'COUSIP'
+
+[idg]
+name = "IDG"
+desc = "International Data Group"

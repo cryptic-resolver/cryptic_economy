@@ -22,3 +22,7 @@ see = ['ODI']
 [fcf]
 name = "FCF"
 desc = "Free Cash Flow"
+
+[fcff]
+name = "FCFF"
+desc = "Free Cash Flow to the Firm"

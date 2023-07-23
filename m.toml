@@ -33,6 +33,7 @@ desc = "Money Market Fund"
 [macd]
 name = "MACD"
 desc = "Moving Average Convergence Divergence"
+see = ['KDJ', 'RSI']
 
 [mib]
 name = "MIB"
