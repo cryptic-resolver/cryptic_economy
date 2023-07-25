@@ -83,3 +83,18 @@ see = 'ISIN'
 [cogs]
 name = "COGS"
 desc = "Cost of Goods Sold"
+
+[cfo]
+name = "CFO"
+desc = "Cash Flow of Operating"
+see = ['CFI', 'CFF']
+
+[cfi]
+name = "CFI"
+desc = "Cash Flow of Investing"
+see = ['CFO', 'CFF']
+
+[cff]
+name = "CFF"
+desc = "Cash Flow of Financing"
+see = ['CFO', 'CFI']

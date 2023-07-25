@@ -2,3 +2,8 @@
 name = "ytd"
 desc = "Year to Date"
 more = "It refers to the period of time beginning the first day of the current calendar year or fiscal year up to the current date. YTD information is useful for analyzing business trends over time or comparing performance data to competitors or peers in the same industry"
+
+[yoy]
+name = "YoY"
+desc = "Year-over-Year"
+more = "A financial term used to compare data from one year to the data from the previous year. For example, if you are looking at a company's revenue, you can compare the revenue from the current year to the revenue from the previous year. The YoY growth rate is the percentage change in the revenue from one year to the next"
