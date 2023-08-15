@@ -50,3 +50,7 @@ desc = "Morgan Stanley Capital International"
 [mcn]
 name = "MCN"
 desc = "Multi-Channel Network"
+
+[mbs]
+name = "MBS"
+desc = "Mortgage-Backed Security"
