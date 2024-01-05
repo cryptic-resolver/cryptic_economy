@@ -9,6 +9,7 @@ desc = "Organization of the Petroleum Exporting Countries"
 [otc]
 name = "OTC"
 desc = "Over-the-counter"
+more = "A decentralized market (as opposed to an exchange market) where geographically dispersed dealers are linked by telephones and computers. The market is for securities not listed on a stock or derivatives exchange"
 
 [odi]
 name = "ODI"

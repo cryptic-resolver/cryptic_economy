@@ -9,6 +9,8 @@ desc = "National Association of Securities Dealers Automated Quotations"
 [nasd]
 name = "NASD"
 desc = "National Association of Securities Dealers"
+more = "Nonprofit organization formed under the joint sponsorship of the investment bankers' conference and the SEC to comply with the Maloney Act, which provides for the regulation of the OTC market. The NASD merged with the NYSE's committee that did a similar job. The new organization is called the Financial Industry Regulation Authority or FINRA"
+see = 'FINRA'
 
 [nft]
 name = "NFT"
@@ -41,3 +43,7 @@ name = "NTR"
 desc = "Net Total Return"
 more = "It is a type of index that measures the total return of a group of stocks, including dividends"
 
+[nms]
+name = "NMS"
+desc = "Refers to over-the-counter trading. The System of trading OTC stocks under the sponsorship of the NASD"
+see = 'NASD'

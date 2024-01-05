@@ -26,3 +26,8 @@ desc = "Free Cash Flow"
 [fcff]
 name = "FCFF"
 desc = "Free Cash Flow to the Firm"
+
+[finra]
+name = "FINRA"
+desc = "Financial Industry Regulation Authority"
+see = 'NASD'
