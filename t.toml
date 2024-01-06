@@ -5,6 +5,7 @@ desc = "Tokyo Stock Exchange"
 [ttm]
 name = "TTM"
 desc = "Trailing Twelve Months"
+see = 'NTM'
 
 [tmt]
 name = "TMT"

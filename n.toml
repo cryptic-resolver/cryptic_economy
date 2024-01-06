@@ -47,3 +47,8 @@ more = "It is a type of index that measures the total return of a group of stock
 name = "NMS"
 desc = "Refers to over-the-counter trading. The System of trading OTC stocks under the sponsorship of the NASD"
 see = 'NASD'
+
+[ntm]
+name = "NTM"
+desc = "Next Twelve Months"
+see = 'TTM'

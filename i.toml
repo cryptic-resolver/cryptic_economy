@@ -36,3 +36,7 @@ see = 'COUSIP'
 [idg]
 name = "IDG"
 desc = "International Data Group"
+
+[ir]
+name = "IR"
+desc = "Investor Relations"
