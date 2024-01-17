@@ -26,3 +26,8 @@ desc = "Due Diligence"
 [dcf]
 name = "DCF"
 desc = "Discounted Cash Flow"
+
+[dau]
+name = "DAU"
+desc = "Daily Active User"
+see = 'MAU'

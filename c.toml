@@ -98,3 +98,7 @@ see = ['CFO', 'CFF']
 name = "CFF"
 desc = "Cash Flow of Financing"
 see = ['CFO', 'CFI']
+
+[cagr]
+name = "CAGR"
+desc = "Compound Annual Growth Rate"

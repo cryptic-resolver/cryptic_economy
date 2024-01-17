@@ -27,3 +27,7 @@ name = "GAAP"
 desc = "Generally Accepted Accounting Principle"
 more = "Used in America"
 see = 'IFRS'
+
+[gmv]
+name = "GMV"
+desc = "Gross Merchandise Volume"

@@ -54,3 +54,8 @@ desc = "Multi-Channel Network"
 [mbs]
 name = "MBS"
 desc = "Mortgage-Backed Security"
+
+[mau]
+name = "MAU"
+desc = "Monthly Active User"
+see = 'DAU'
