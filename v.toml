@@ -9,3 +9,7 @@ desc = "Variable Interest Entity"
 [vc]
 name = "VC"
 desc = "Venture Capital"
+
+[vas]
+name = "VAS"
+desc = "Value Added Services"
