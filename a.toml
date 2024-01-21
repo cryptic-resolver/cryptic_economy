@@ -25,3 +25,7 @@ desc = "American Bankers Association"
 [arpu]
 name = "ARPU"
 desc = "Average Revenue Per User"
+
+[aaii]
+name = "AAII"
+desc = "American Association of Individual Investors"

@@ -13,3 +13,12 @@ desc = "Venture Capital"
 [vas]
 name = "VAS"
 desc = "Value Added Services"
+
+[vix]
+name = "VIX"
+desc = "CBOE Volatility Index"
+more = "A popular measure of the stock market's expectation of volatility based on S&P 500 index options. Often referred to as the fear index or fear gauge"
+
+[vti]
+name = "VTI"
+desc = "Vanguard Total Stock Market Index Fund"
