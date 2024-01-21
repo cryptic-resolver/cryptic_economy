@@ -102,3 +102,7 @@ see = ['CFO', 'CFI']
 [cagr]
 name = "CAGR"
 desc = "Compound Annual Growth Rate"
+
+[c2m]
+name = "C2M"
+desc = "Consumer To Manufacturer"

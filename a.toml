@@ -21,3 +21,7 @@ desc = "American Stock Exchange"
 [aba]
 name = "ABA"
 desc = "American Bankers Association"
+
+[arpu]
+name = "ARPU"
+desc = "Average Revenue Per User"
