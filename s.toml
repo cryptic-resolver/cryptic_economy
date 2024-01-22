@@ -54,3 +54,7 @@ more = "It is a free-float market-weighted stock market index of 30 well-establi
 [spx]
 name = "SPX"
 desc = "S&P 500 Index"
+
+[sac]
+name = "SAC"
+desc = "Securities Association Certificate in China"
