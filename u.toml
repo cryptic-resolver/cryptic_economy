@@ -10,3 +10,7 @@ more = "A barcode symbology that is widely used worldwide for tracking trade ite
 [ugc]
 name = "UGC"
 desc = "User-Generated Content"
+
+[usp]
+name = "USP"
+desc = "Unique Selling Proposition"
