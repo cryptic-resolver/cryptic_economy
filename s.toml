@@ -58,3 +58,11 @@ desc = "S&P 500 Index"
 [sac]
 name = "SAC"
 desc = "Securities Association Certificate in China"
+
+[spa]
+name = "SPA"
+desc = "Specialty Retailer of Private Label Apparel"
+
+[sbu]
+name = "SBU"
+desc = "Strategic Business Unit"

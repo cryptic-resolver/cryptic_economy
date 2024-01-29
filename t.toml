@@ -18,3 +18,7 @@ desc = "Total Factor Productivity"
 [tsx]
 name = "TSX"
 desc = "Toronto Stock eXchange"
+
+[tpg]
+name = "TPG"
+desc = "Texas Pacific Group"
